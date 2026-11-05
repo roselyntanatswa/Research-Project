@@ -1,0 +1,1 @@
+Analysis notebook for the research report An Analysis of Predictive Models for Customer Purchase Behaviour in E-Commerce Under Consumer Data Privacy Constraints (ST10540034). Dataset: UCI Online Shoppers Purchasing Intention Dataset, https://doi.org/10.24432/C5F88Q (CC BY 4.0)
